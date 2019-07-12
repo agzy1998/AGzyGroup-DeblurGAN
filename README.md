@@ -2,7 +2,7 @@
 
 这是校企实训项目《DeblurGAN实现运动图像去模糊化》的仓库
 
-![info1](.\testImage\info1.png)
+![info1](<https://raw.githubusercontent.com/agzy1998/MarkDownPhotos/master/info1.png>)
 
 
 # Installation
@@ -47,4 +47,4 @@ python scripts/deblur_image.py --image_path=path/to/image
 ```
 or  run the welcome.py to Deblur you own image in the GUI.
 
-![info2](.\testImage\info2.png)
+![info2](<https://raw.githubusercontent.com/agzy1998/MarkDownPhotos/master/info2.png>)
